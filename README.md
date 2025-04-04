@@ -31,8 +31,3 @@ A fun **Rock-Paper-Scissors** game built using **HTML, CSS, and JavaScript**. Pl
 - **HTML** – Structure  
 - **CSS** – Styling  
 - **JavaScript** – Game logic  
-
-## 📥 Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Gopeshsharmaa/RPC-Clash-Game.git
